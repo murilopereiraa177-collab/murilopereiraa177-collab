@@ -1,34 +1,34 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00599C&height=200&section=header&text=Murilo%20Pereira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%40%20UNESP&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:112240&height=200&section=header&text=Murilo%20Pereira&fontSize=55&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Turning%20coffee%20and%20code%20into%20automation&descAlignY=58&descSize=18&descColor=8ED8F5" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Python+%7C+C+%7C+C%2B%2B+%7C+SQL+%7C+HTML+%7C+CSS;Building+RPA+%26+automation+projects+%F0%9F%A4%96;Looking+for+Junior+Developer+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Python+%7C+C+%7C+C%2B%2B+%7C+SQL+%7C+HTML+%7C+CSS;Teaching+robots+to+do+my+homework+%F0%9F%A4%96;Open+to+Junior+Developer+opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/murilo-pereira-a68434264">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
   </a>
   <a href="https://github.com/murilopereiraa177-collab">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=00D9FF" />
   </a>
-  <img src="https://img.shields.io/badge/UNESP-Universidade%20Estadual%20Paulista-003366?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <a href="https://unesp.br">
+    <img src="https://img.shields.io/badge/UNESP-0A192F?style=for-the-badge&logo=googlescholar&logoColor=00D9FF" />
+  </a>
 </p>
 
-<br>
+<p align="center">⸻</p>
 
-## About me
+## 🎓 Who I am
 
-- 🎓 Computer Science student at **UNESP** — Universidade Estadual Paulista "Júlio de Mesquita Filho"
-- 🐍 Deepening my knowledge of **Python**
-- 🤖 Focused on **RPA / Process Automation**
-- 🔍 Looking for **Junior Developer** opportunities
-- ⚡ Current project: end-to-end supplier registration automation (Python + Selenium + SQL + REST API)
+Computer Science student at **UNESP** — Universidade Estadual Paulista "Júlio de Mesquita Filho", currently turning my Python skills toward **RPA and process automation**. I like taking repetitive, boring tasks and teaching a script to do them instead — so I get more time for the interesting problems.
 
-<br>
+Right now I'm building an **end-to-end supplier-registration automation**: it reads a spreadsheet, validates and enriches the data through a public API, saves everything to a SQL database, and fills out a web form on its own using Selenium. Basically, I built a robot so I don't have to do data entry by hand. 🤖
 
-## Languages & Tools
+<p align="center">⸻</p>
+
+## 🛠️ What I build with
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,html,css&theme=dark" />
@@ -37,55 +37,63 @@
   <img src="https://skillicons.dev/icons?i=selenium,flask,git,vscode&theme=dark" />
 </p>
 
-<br>
+<p align="center">⸻</p>
 
-## Featured project
+## 🚀 Featured project
 
 <a href="https://github.com/murilopereiraa177-collab/projeto-rpa-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=murilopereiraa177-collab&repo=projeto-rpa-python&theme=radical" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=murilopereiraa177-collab&repo=projeto-rpa-python&theme=dark" />
 </a>
 
-> Full supplier-registration automation: reads a spreadsheet, validates records, enriches data via a public REST API, persists to a SQL database, and auto-fills a web form with Selenium.
+> **Supplier Registration Automation** — reads a spreadsheet, validates records, enriches data via a public REST API, persists to a SQL database, and auto-fills a web form with Selenium. My proof that Python + a little patience can replace an entire afternoon of copy-paste.
 
-<br>
+<p align="center">⸻</p>
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=murilopereiraa177-collab&show_icons=true&theme=radical&border_radius=10" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilopereiraa177-collab&layout=compact&theme=radical&border_radius=10" />
-</p>
-
-<br>
-
-## Trophies
+## 📊 Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=murilopereiraa177-collab&theme=radical&no-frame=true&row=1&column=6" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=murilopereiraa177-collab&show_icons=true&theme=dark&border_radius=10" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=murilopereiraa177-collab&layout=compact&theme=dark&border_radius=10" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=murilopereiraa177-collab&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 
-## 3D Contribution Skyline
+<p align="center">⸻</p>
+
+## 🏙️ 3D Contribution Skyline
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
-<br>
+<p align="center">⸻</p>
 
-## Snake eating my commits
+## 🐍 The snake that eats my commits
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/murilopereiraa177-collab/murilopereiraa177-collab/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/murilopereiraa177-collab/murilopereiraa177-collab/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<br>
+<p align="center">⸻</p>
+
+## 📬 Let's talk
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=murilopereiraa177-collab&style=flat-square&color=8A2BE2" alt="Visitor count" />
+  Open to Junior Developer, Python, and RPA opportunities — feel free to reach out.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:8A2BE2&height=100&section=footer" />
+  <a href="https://www.linkedin.com/in/murilo-pereira-a68434264">
+    <img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=murilopereiraa177-collab&style=flat-square&color=00D9FF" alt="Visitor count" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:112240,100:0A192F&height=100&section=footer" />
 </p>
